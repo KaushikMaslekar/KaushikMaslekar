@@ -73,7 +73,8 @@
 📍 Pune, India  
 📞 9325790846  
 ✉️ maslekarkaushik@gmail.com  
-🌐 [Portfolio](https://kaushiksportfolio.netlify.app/)  
+🌐 [Portfolio](https://kaushiksportfolio.netlify.app/) 
+[LinkedIn](https://www.linkedin.com/in/kaushikmaslekar)
 
 ---
 ⭐️ *Always eager to learn, build, and innovate!*  
