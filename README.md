@@ -69,6 +69,20 @@
 
 ---
 
+## ⚡ Current Statistics ⚡  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaushikMaslekar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=79FE96" alt="GitHub Stats" height="165" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaushikMaslekar&theme=react&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikMaslekar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=79FE96" alt="Top Languages" height="165" />
+</p>
+
+---
+
 ## 📫 Contact Me  
 📍 Pune, India  
 📞 9325790846  
