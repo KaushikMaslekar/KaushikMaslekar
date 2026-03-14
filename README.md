@@ -6,7 +6,7 @@
 
 🚀 Skilled **Java Developer** and **DevOps enthusiast** with hands-on experience in building scalable applications, managing networks, and integrating modern technologies. I enjoy problem-solving, collaborating in teams, and adapting to new technologies.  
 
-🌐 [My Portfolio](https://kaushiksportfolio.netlify.app/)  
+🌐 [My Portfolio](https://kaushikmaslekar.vercel.app)  
 
 ---
 
