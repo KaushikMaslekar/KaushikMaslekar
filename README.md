@@ -112,21 +112,6 @@ AI Systems Engineer • Backend Engineer • Java • Spring Boot • FastAPI �
 ### 🏭 MachinoCare
 
 > AI-powered predictive maintenance platform leveraging IoT sensors, FastAPI, machine learning, and real-time monitoring dashboards.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaushikMaslekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushikMaslekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaushikMaslekar&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 📚 Currently Learning
