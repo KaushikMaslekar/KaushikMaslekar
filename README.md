@@ -43,66 +43,109 @@ AI Systems Engineer | Backend Engineer | RAG | LLMs | Java | Spring Boot | FastA
 
 ---
 
-# 💻 Tech Stack
+## 🛠 Tech Stack
 
-### 👨‍💻 Languages
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c&perline=8" />
+</p>
 
 ---
 
 ### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,maven,gradle&perline=8" />
+</p>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-0066CC?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+<p align="center">
+
+`REST APIs` • `Microservices` • `Multithreading`
+
+</p>
 
 ---
 
 ### 🤖 AI / Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=8" />
+</p>
 
-![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-purple?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-00B388?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FFB000?style=for-the-badge)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-008080?style=for-the-badge)
+<p align="center">
+
+`RAG` • `LLMs` • `LangChain` • `Semantic Search` • `Embeddings` • `Prompt Engineering`
+
+</p>
 
 ---
 
-### 🗄 Databases
+### 🗄️ Vector Databases
+<p align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+`Pinecone` • `ChromaDB` • `FAISS` • `Vector Search`
+
+</p>
+
+---
+
+### 🗃️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis&perline=8" />
+</p>
+
+---
+
+### ⚡ Distributed Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,redis&perline=8" />
+</p>
+
+<p align="center">
+
+`Event-Driven Architecture` • `Caching`
+
+</p>
 
 ---
 
 ### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,bash&perline=8" />
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge)
+<p align="center">
+
+`CI/CD`
+
+</p>
+
+---
+
+### 📈 Monitoring & Testing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman&perline=8" />
+</p>
+
+<p align="center">
+
+`JUnit` • `Mockito` • `Prometheus` • `Grafana`
+
+</p>
 
 ---
 
-### 📊 Monitoring & Testing
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=8" />
+</p>
 
 ---
+
+### 🌐 Currently Exploring
+<p align="center">
+
+`AI Agents` • `MCP` • `Agentic AI` • `Model Context Protocol` • `LangGraph`
+
+</p>
 
 ## 🚀 Featured Projects
 
