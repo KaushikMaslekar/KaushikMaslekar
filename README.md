@@ -1,131 +1,130 @@
-<h1 align="center">Hi 👋, I'm Kaushik Maslekar</h1>
+
+<h1 align="center">Kaushik Maslekar</h1>
 
 <h3 align="center">
-AI Systems Engineer • Backend Engineer • Java • Spring Boot • FastAPI • LLM Applications
+AI Systems Engineer | Backend Engineer | Java | Spring Boot | FastAPI | LLM Applications
 </h3>
 
 <p align="center">
   <a href="https://github.com/KaushikMaslekar">
     <img src="https://komarev.com/ghpvc/?username=KaushikMaslekar&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-
   <a href="https://github.com/KaushikMaslekar?tab=followers">
-    <img src="https://img.shields.io/github/followers/KaushikMaslekar?label=Followers&style=flat&color=blue"/>
+    <img src="https://img.shields.io/github/followers/KaushikMaslekar?label=Followers&style=flat&color=blue" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 B.E. Artificial Intelligence & Data Science @ MMCOE Pune
-- 🤖 Building **AI-powered backend systems** with LLMs & RAG
-- ⚡ Backend developer specializing in **Java**, **Spring Boot**, and **FastAPI**
-- 🔍 Interested in **Distributed Systems**, **Cloud Computing**, and **AI Infrastructure**
-- 🌱 Currently exploring **Agentic AI**, **MCP**, and **LangGraph**
-- 📫 Reach me at **maslekarkaushik@gmail.com**
+I am an Artificial Intelligence and Data Science engineering student focused on building scalable backend systems and AI-powered applications.
+
+* B.E. Artificial Intelligence and Data Science at MMCOE, Pune
+* Building AI applications using LLMs, RAG, semantic search, and embeddings
+* Backend development with Java, Spring Boot, and FastAPI
+* Interested in distributed systems, cloud computing, and AI infrastructure
+* Exploring Agentic AI, MCP, LangGraph, and distributed AI systems
+* Email: [maslekarkaushik@gmail.com](mailto:maslekarkaushik@gmail.com)
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <p align="left">
-<a href="https://github.com/KaushikMaslekar">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kaushikmaslekar">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://kaushikmaslekar.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
+  <a href="https://github.com/KaushikMaslekar">GitHub</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kaushikmaslekar">LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://kaushikmaslekar.vercel.app">Portfolio</a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+## Technical Skills
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c"/>
-</p>
+Java, Python, C++, C
 
-### Backend
+### Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,maven,gradle"/>
-</p>
+Spring Boot, FastAPI, Maven, Gradle
 
-### AI & Machine Learning
+### Artificial Intelligence
 
-`LLMs` • `RAG` • `LangChain` • `Semantic Search` • `Embeddings`
+LLMs, RAG, LangChain, Semantic Search, Embeddings
 
 ### Vector Databases
 
-`FAISS` • `Pinecone` • `ChromaDB`
+FAISS, Pinecone, ChromaDB
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite"/>
-</p>
+MySQL, PostgreSQL, MongoDB, Redis, SQLite
 
 ### Distributed Systems
 
-<p>
-<img src="https://skillicons.dev/icons?i=kafka,redis"/>
-</p>
+Apache Kafka, Redis
 
-### Cloud & DevOps
+### Cloud and DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,bash"/>
-</p>
+AWS, Docker, Kubernetes, GitHub Actions, Linux, Bash
 
-### Monitoring & Tools
+### Testing and Monitoring
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
-</p>
+JUnit, Mockito, Prometheus, Grafana
 
-`JUnit` • `Mockito` • `Prometheus` • `Grafana`
+### Development Tools
+
+Git, GitHub, VS Code, IntelliJ IDEA, Postman
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-### 📚 Knowledge-Based Search Assistant
+### Knowledge-Based Search Assistant
 
-> Retrieval-Augmented Generation (RAG) system for semantic document search and contextual question answering using LangChain and vector databases.
+A Retrieval-Augmented Generation system for semantic document search and contextual question answering.
+
+**Technologies:** LangChain, LLMs, Vector Databases, Semantic Search, Embeddings
+
+### Encrypted Traffic Classifier
+
+An enterprise-oriented encrypted traffic classification platform using JA3 fingerprinting, machine learning, and network flow analysis.
+
+**Technologies:** Java, Spring Boot, Machine Learning, JA3, Network Analysis
+
+### MachinoCare
+
+An AI-powered predictive maintenance platform that combines IoT sensor data, machine learning, real-time monitoring, and backend services.
+
+**Technologies:** FastAPI, Python, Machine Learning, IoT, Real-Time Monitoring
 
 ---
 
-### 🔐 Encrypted Traffic Classifier
+## Currently Learning
 
-> Enterprise-grade encrypted traffic classification platform using Spring Boot, JA3 fingerprinting, machine learning, and flow analysis.
+Agentic AI
+LangGraph
+Model Context Protocol
+Kubernetes
+Distributed AI Systems
 
 ---
 
-### 🏭 MachinoCare
+## Areas of Interest
 
-> AI-powered predictive maintenance platform leveraging IoT sensors, FastAPI, machine learning, and real-time monitoring dashboards.
----
-
-## 📚 Currently Learning
-
-- Agentic AI
-- LangGraph
-- MCP (Model Context Protocol)
-- Kubernetes
-- Distributed AI Systems
+Artificial Intelligence
+Backend Engineering
+Distributed Systems
+Cloud Computing
+AI Infrastructure
+Large Language Models
+Intelligent Backend Systems
 
 ---
 
 <p align="center">
-
-<i>"Building scalable backend systems powered by intelligent AI."</i>
-
+  Building scalable backend systems powered by intelligent AI.
 </p>
